@@ -1,1 +1,1 @@
-# HUST-FACE-RECOGNITION-CNN
+Problem: Class - Course - Teacher Assignment and TimeTabling
